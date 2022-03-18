@@ -42,6 +42,12 @@ In essence you follow three simple steps repeatedly:
 
 ## Home assignments
 
-- [Wordle](https://www.nytimes.com/games/wordle/index.html) + autosolve as a bonus
-- [Pipes](https://www.puzzle-pipes.com/) + autosolve as a bonus
-- [2048](https://play2048.co/) + autosolve as a bonus
+- [Wordle](https://www.nytimes.com/games/wordle/index.html)
+  - game engine that can be `played` from the tests
+  - tested code that can autosolve the game
+- [Pipes](https://www.puzzle-pipes.com/)
+  - game engine that can be `played` from the tests
+  - tested code that can autosolve the game
+- [2048](https://play2048.co/)
+  - game engine that can be `played` from the tests
+  - tested code that can autosolve the game
